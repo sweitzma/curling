@@ -1,3 +1,6 @@
+echo Last run at: $(date)
+echo
+
 echo "GET some Spotify requests"
 for i in {1..3}
 do
